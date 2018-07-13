@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>RainHome</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-07-13T07:50:44.780Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>RainInteger</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>赵晓峰</title>
+    <link href="http://yoursite.com/2018/07/13/%E8%B5%B5%E6%99%93%E5%B3%B0/"/>
+    <id>http://yoursite.com/2018/07/13/赵晓峰/</id>
+    <published>2018-07-13T07:49:32.000Z</published>
+    <updated>2018-07-13T07:50:44.780Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;这是一个实验性质的文件&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2018/07/13/rainIn/"/>
+    <id>http://yoursite.com/2018/07/13/rainIn/</id>
+    <published>2018-07-13T07:01:19.903Z</published>
+    <updated>2018-07-13T07:03:33.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>hello hexo2</title>
+    <link href="http://yoursite.com/2018/07/13/hello-hexo2/"/>
+    <id>http://yoursite.com/2018/07/13/hello-hexo2/</id>
+    <published>2018-07-13T06:44:46.000Z</published>
+    <updated>2018-07-13T06:44:46.067Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>你好，hexo</title>
+    <link href="http://yoursite.com/2018/07/13/%E4%BD%A0%E5%A5%BD%EF%BC%8Chexo/"/>
+    <id>http://yoursite.com/2018/07/13/你好，hexo/</id>
+    <published>2018-07-13T06:21:45.000Z</published>
+    <updated>2018-07-13T06:21:45.384Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2018/07/13/hello-world/"/>
+    <id>http://yoursite.com/2018/07/13/hello-world/</id>
+    <published>2018-07-13T05:54:27.397Z</published>
+    <updated>2018-07-13T05:54:27.397Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
